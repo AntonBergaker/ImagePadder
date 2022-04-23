@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{685DA4FA-8279-491A-8AFF-30F969814599}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ImageFiller</RootNamespace>
-    <AssemblyName>ImageFiller</AssemblyName>
+    <RootNamespace>ImagePadder</RootNamespace>
+    <AssemblyName>ImagePadder</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
